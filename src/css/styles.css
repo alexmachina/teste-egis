@@ -1,0 +1,46 @@
+
+@media only screen and (max-width : 1200px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+  #add-axle-button {
+    margin-bottom:25px;
+    }
+
+  #add-axle-button-container {
+    text-align:center;
+  }
+
+}
+
+/* Extra Small Devices, Phones */ 
+@media only screen and (max-width : 480px) {
+
+}
+
+/* Custom, iPhone Retina */ 
+@media only screen and (max-width : 320px) {
+
+}
+
+.no-padding {
+  padding:0;
+  padding-right:0 !important;
+}
+
+.inside {
+  background-color:white;
+  padding-left:10;
+  padding-right:10
+}
+
+#axles-panel {
+  margin-bottom:25px;
+}
